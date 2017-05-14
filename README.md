@@ -1,2 +1,3 @@
-# learn-elixir
+# LearnElixir
+
 Samples for learning Elixir
